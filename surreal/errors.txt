@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 5: python block expects a non-empty block.
+    python:
+           ^
+
+File "game/script.rpy", line 6: expected statement.
+    displayable = renpy.Displayable(width=300, height=300)
+                ^
+
+File "game/script.rpy", line 7: expected statement.
+    renpy.image("bg amandine", displayable)
+                                           ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Tue Dec 27 23:52:23 2022
